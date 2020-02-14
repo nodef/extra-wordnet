@@ -1,0 +1,23 @@
+{
+  "name": "extra-wordnet",
+  "version": "0.0.1",
+  "description": "WordNet is a lexical database of semantic relations between words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-wordnet.git"
+  },
+  "keywords": [
+    "extra",
+    "wordnet"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-wordnet/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-wordnet#readme"
+}
