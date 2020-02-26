@@ -1,1 +1,1 @@
-WordNet is a lexical database of semantic relations between words,
+WordNet is a lexical database of semantic relations between words.
