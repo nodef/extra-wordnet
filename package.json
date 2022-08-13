@@ -1,14 +1,18 @@
 {
   "name": "extra-wordnet",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "WordNet is a lexical database of semantic relations between words.",
   "main": "index.js",
-  "scripts": {
-    "test": "exit"
+  "sideEffects": false,
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.mjs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nodef/extra-wordnet.git"
+  "scripts": {
+    "test": "exit",
+    "build": "node ./build",
+    "publish-docs": "node ./build publish-docs",
+    "publish-packages": "node ./build publish-packages"
   },
   "keywords": [
     "extra",
@@ -16,8 +20,19 @@
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-wordnet.git"
+  },
   "bugs": {
     "url": "https://github.com/nodef/extra-wordnet/issues"
   },
-  "homepage": "https://github.com/nodef/extra-wordnet#readme"
+  "homepage": "https://github.com/nodef/extra-wordnet#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.2",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "extra-build": "^2.2.27",
+    "rollup-plugin-cleanup": "^3.2.1",
+    "rollup-plugin-dts": "^4.2.2"
+  }
 }
