@@ -52,7 +52,7 @@ x wordnet-verbarray
 - wordnet-verbdatamap.nogloss
 - wordnet-verbdatamap.nogloss.min
 - wordnet-verbexceptionlists
-- wordnet-verbexceptionmap
+x wordnet-verbexceptionmap
 x wordnet-verbframestextarray
 x wordnet-verbsentencemap
 - wordnet.bag
