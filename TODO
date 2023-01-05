@@ -46,7 +46,7 @@ x wordnet-posnamearray
 x wordnet-posnumbermap
 x wordnet-possymbolarray
 - wordnet-sensekey
-- wordnet-verbarray
+x wordnet-verbarray
 - wordnet-verbdatamap
 - wordnet-verbdatamap.min
 - wordnet-verbdatamap.nogloss
