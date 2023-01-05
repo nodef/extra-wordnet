@@ -30,9 +30,9 @@ x wordnet-lexnumberarray
 - wordnet-minifysynset
 - wordnet-minifyword
 x wordnet-nounarray
-- wordnet-noundatamap
+x wordnet-noundatamap
 - wordnet-noundatamap.min
-- wordnet-noundatamap.nogloss
+x wordnet-noundatamap.nogloss
 - wordnet-noundatamap.nogloss.min
 x wordnet-nounexceptionlists
 x wordnet-nounexceptionmap
