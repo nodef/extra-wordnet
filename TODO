@@ -54,7 +54,7 @@ x wordnet-verbarray
 - wordnet-verbexceptionlists
 - wordnet-verbexceptionmap
 x wordnet-verbframestextarray
-- wordnet-verbsentencemap
+x wordnet-verbsentencemap
 - wordnet.bag
 - wordnet.blob
 - wordnet.block
