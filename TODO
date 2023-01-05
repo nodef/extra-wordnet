@@ -51,7 +51,7 @@ x wordnet-verbarray
 - wordnet-verbdatamap.min
 - wordnet-verbdatamap.nogloss
 - wordnet-verbdatamap.nogloss.min
-- wordnet-verbexceptionlists
+x wordnet-verbexceptionlists
 x wordnet-verbexceptionmap
 x wordnet-verbframestextarray
 x wordnet-verbsentencemap
