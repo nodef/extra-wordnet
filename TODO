@@ -29,7 +29,7 @@ x wordnet-lexnumberarray
 - wordnet-minifypointer
 - wordnet-minifysynset
 - wordnet-minifyword
-- wordnet-nounarray
+x wordnet-nounarray
 - wordnet-noundatamap
 - wordnet-noundatamap.min
 - wordnet-noundatamap.nogloss
