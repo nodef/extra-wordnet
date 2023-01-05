@@ -34,8 +34,8 @@ x wordnet-nounarray
 - wordnet-noundatamap.min
 - wordnet-noundatamap.nogloss
 - wordnet-noundatamap.nogloss.min
-- wordnet-nounexceptionlists
-- wordnet-nounexceptionmap
+x wordnet-nounexceptionlists
+x wordnet-nounexceptionmap
 x wordnet-pointernamemap
 x wordnet-pointernumberconstants
 x wordnet-pointernumbermap
