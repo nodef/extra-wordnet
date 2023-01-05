@@ -1,6 +1,6 @@
 {
   "name": "extra-wordnet",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "WordNet is a lexical database of semantic relations between words.",
   "main": "index.js",
   "sideEffects": false,
