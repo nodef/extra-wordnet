@@ -1,6 +1,6 @@
 {
   "name": "extra-wordnet",
-  "version": "0.1.22",
+  "version": "0.2.0",
   "description": "WordNet is a lexical database of semantic relations between words.",
   "main": "index.js",
   "sideEffects": false,
@@ -29,13 +29,13 @@
   },
   "homepage": "https://github.com/nodef/extra-wordnet#readme",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^24.0.0",
-    "@rollup/plugin-node-resolve": "^15.0.1",
-    "@types/jest": "^29.2.4",
-    "extra-build": "^2.2.39",
-    "jest": "^29.3.1",
+    "@rollup/plugin-commonjs": "^24.1.0",
+    "@rollup/plugin-node-resolve": "^15.3.0",
+    "@types/jest": "^29.5.13",
+    "extra-build": "^2.3.0",
+    "jest": "^29.7.0",
     "rollup-plugin-cleanup": "^3.2.1",
-    "rollup-plugin-dts": "^5.1.0",
-    "ts-jest": "^29.0.3"
+    "rollup-plugin-dts": "^5.3.1",
+    "ts-jest": "^29.2.5"
   }
 }
