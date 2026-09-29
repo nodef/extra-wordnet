@@ -1,2 +1,2 @@
-test("blank", () => {
+Deno.test("blank", () => {
 });
